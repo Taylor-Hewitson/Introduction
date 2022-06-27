@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Church0mouse
+- 👋 Hi, I’m @Taylor-Hewitson
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
